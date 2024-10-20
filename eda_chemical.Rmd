@@ -6,6 +6,7 @@ output:
   pdf_document:
     latex_engine: xelatex
 ---
+* Some parts of this assignment's code have sought help from ChatGPT.
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
